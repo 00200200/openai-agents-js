@@ -1,5 +1,19 @@
 # @openai/agents-openai
 
+## 0.18.1
+
+### Patch Changes
+
+- 817161d: build: Generate package metadata with native Node.js TypeScript support.
+- 7f135af: fix: update compatible runtime and development dependencies.
+- 06bbcc0: chore: migrate tracing test mocks to Vitest 5.
+- Updated dependencies [186f6ec]
+- Updated dependencies [817161d]
+- Updated dependencies [7f135af]
+- Updated dependencies [0bdea85]
+- Updated dependencies [06bbcc0]
+  - @openai/agents-core@0.18.1
+
 ## 0.18.0
 
 ### Patch Changes

@@ -1,5 +1,15 @@
 # @openai/agents-core
 
+## 0.18.1
+
+### Patch Changes
+
+- 186f6ec: fix: Trim local workspace logical path separators in linear time.
+- 817161d: build: Generate package metadata with native Node.js TypeScript support.
+- 7f135af: fix: update compatible runtime and development dependencies.
+- 0bdea85: fix: Compute sandbox parent paths in linear time while preserving existing path semantics.
+- 06bbcc0: chore: migrate tracing test mocks to Vitest 5.
+
 ## 0.18.0
 
 ### Minor Changes
